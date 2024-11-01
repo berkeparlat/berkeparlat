@@ -3,6 +3,7 @@ I’m a Mechatronics Engineering student with hands-on experience in electronics
 
 🔧 Skills & Technologies
 Engineering: Quality Control, Robotic Systems, Automation, CNC, Automotive Technology
+
 Software & Tools: SolidWorks, MATLAB, C, C#, Microsoft Office Suite, Arduino, PID Control
 
 Project Management: Experience with Tübitak Efficiency Challenge, R&D projects, and maintenance engineering
