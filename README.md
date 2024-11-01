@@ -3,7 +3,7 @@ I’m a Mechatronics Engineering student with hands-on experience in electronics
 
 🔧 Skills
 
-Robotic Systems, Automation, CAD/CAM softwares, MATLAB, C, C#, Microsoft Office, Arduino, PID Control, Real Time Control, 3D Design ,Mechanism Technique, Sensor Systems, Electronic Circuit Design, Artificial Neural Networks
+Robotic Systems, Automation, CAD/CAM softwares, MATLAB, C, C#, Microsoft Office, Arduino, PID Control, Real Time Control, 3D Design, Mechanism Technique, Sensor Systems, Electronic Circuit Design, Artificial Neural Networks
 
 Project Management: Experience with Tübitak Efficiency Challenge, R&D projects, and maintenance engineering
 
