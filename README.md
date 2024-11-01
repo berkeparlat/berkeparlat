@@ -1,10 +1,8 @@
 Hello, I’m Mehmet Berke Parlat! 👋
 I’m a Mechatronics Engineering student with hands-on experience in electronics R&D, machine maintenance, and quality control. My journey in engineering has been fueled by curiosity and a drive to solve real-world problems, from optimizing energy systems to creating efficient robotic systems.
 
-🔧 Skills & Technologies
-Engineering: Quality Control, Robotic Systems, Automation, CNC, Automotive Technology
-
-Software & Tools: SolidWorks, MATLAB, C, C#, Microsoft Office Suite, Arduino, PID Control
+🔧 Skills 
+Robotic Systems, Automation, CAD/CAM softwares, MATLAB, C, C#, Microsoft Office, Arduino, PID Control, Real Time Control, 3D Design ,Mechanism Technique, Sensor Systems, Electronic Circuit Design, Artificial Neural Networks
 
 Project Management: Experience with Tübitak Efficiency Challenge, R&D projects, and maintenance engineering
 
