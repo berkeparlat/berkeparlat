@@ -12,5 +12,6 @@ As I approach graduation, I’m diving deeper into coding, automation, robotics,
 Thank you for visiting! Let’s connect to discuss ideas, collaborate on projects, or just geek out about engineering!
 
 📫 Connect with Me!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetberkeparlat/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berke.parlat27@gmail.com)
